@@ -1,13 +1,25 @@
 {
-  "main.css": "/resume-frontend/static/css/main.84801461.chunk.css",
-  "main.js": "/resume-frontend/static/js/main.dfb68942.chunk.js",
-  "main.js.map": "/resume-frontend/static/js/main.dfb68942.chunk.js.map",
-  "static/js/1.6695e3f8.chunk.js": "/resume-frontend/static/js/1.6695e3f8.chunk.js",
-  "static/js/1.6695e3f8.chunk.js.map": "/resume-frontend/static/js/1.6695e3f8.chunk.js.map",
-  "runtime~main.js": "/resume-frontend/static/js/runtime~main.70bae19a.js",
-  "runtime~main.js.map": "/resume-frontend/static/js/runtime~main.70bae19a.js.map",
-  "static/css/main.84801461.chunk.css.map": "/resume-frontend/static/css/main.84801461.chunk.css.map",
-  "index.html": "/resume-frontend/index.html",
-  "precache-manifest.24c45dd367e3b5b15ad2036f7c59234d.js": "/resume-frontend/precache-manifest.24c45dd367e3b5b15ad2036f7c59234d.js",
-  "service-worker.js": "/resume-frontend/service-worker.js"
+  "files": {
+    "main.css": "/resume-frontend/static/css/main.933f8601.chunk.css",
+    "main.js": "/resume-frontend/static/js/main.68e0bf13.chunk.js",
+    "main.js.map": "/resume-frontend/static/js/main.68e0bf13.chunk.js.map",
+    "runtime-main.js": "/resume-frontend/static/js/runtime-main.ea11821f.js",
+    "runtime-main.js.map": "/resume-frontend/static/js/runtime-main.ea11821f.js.map",
+    "static/css/2.ab922615.chunk.css": "/resume-frontend/static/css/2.ab922615.chunk.css",
+    "static/js/2.f87d1aa3.chunk.js": "/resume-frontend/static/js/2.f87d1aa3.chunk.js",
+    "static/js/2.f87d1aa3.chunk.js.map": "/resume-frontend/static/js/2.f87d1aa3.chunk.js.map",
+    "index.html": "/resume-frontend/index.html",
+    "precache-manifest.7ff9538dc36a77e24a4e39eb366583f0.js": "/resume-frontend/precache-manifest.7ff9538dc36a77e24a4e39eb366583f0.js",
+    "service-worker.js": "/resume-frontend/service-worker.js",
+    "static/css/2.ab922615.chunk.css.map": "/resume-frontend/static/css/2.ab922615.chunk.css.map",
+    "static/css/main.933f8601.chunk.css.map": "/resume-frontend/static/css/main.933f8601.chunk.css.map",
+    "static/js/2.f87d1aa3.chunk.js.LICENSE.txt": "/resume-frontend/static/js/2.f87d1aa3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea11821f.js",
+    "static/css/2.ab922615.chunk.css",
+    "static/js/2.f87d1aa3.chunk.js",
+    "static/css/main.933f8601.chunk.css",
+    "static/js/main.68e0bf13.chunk.js"
+  ]
 }
